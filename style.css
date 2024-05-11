@@ -1,0 +1,34 @@
+body {
+    font-family : Ariel, Helvetica, sans-serif;
+    text-align : center;
+    background-image : url("img2.jpg");
+    background-size : cover;
+}
+
+.container {
+    width : 50vw;
+    height : 50vw;
+    background-color : #faf7f0;
+    padding : 20px;
+    margin : 0 auto ;
+    margin-top : 500px;
+    border-radius : 10px;
+}
+
+#calculate {
+    height : 30px;
+    width : 150px;
+    font-size : 1.3rem;
+    color : black;
+    background-color : #f7db9e;
+    border-radius : 10px;
+    border : none;
+}
+
+#result-msg {
+    size : 2.5rem;
+}
+
+#result-percentage {
+    size : 3rem;
+}
